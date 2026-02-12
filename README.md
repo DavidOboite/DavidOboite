@@ -1,7 +1,7 @@
-<h1 align="">David Oboite</h1>
-<p align=""><em>Data Science & Artificial Intelligence</em></p>
+<h1 align="right">David Oboite</h1>
+<p align="right"><em>Data Science & Artificial Intelligence</em></p>
 
-<p align="">
+<p align="right">
   Philosophy → Systems  
   Psychology → Structured Thinking  
   Programming → Execution
@@ -9,55 +9,46 @@
 
 ---
 
- ## About
+ ## About🔮
 
 Currently, a Data Science & Artificial Intelligence Student at **Leeds Beckett University**.
 > Finding clarity in philosophy.  
 Sharpening reasoning through psychology.  
 Expressing creativity through code.
 
-I’m interested in:
+### Interests :
 - Computation and Data Optimization  
 - Foreign Languages and Culture 
 - Music and Art
+- Rock Climbing and Extreme Sport
 
-   _still learning, always improving_ 
+  > _still learning, always improving_ 
 ---
 
  ## Technical Profile
-<table align="center">
+
+<table align="">
 <tr>
 <th>Languages</th>
 <th>Tools</th>
 </tr>
 
 <tr>
-<td align="center">
+<td align="">
 
-<img src="https://skillicons.dev/icons?i=python" width="40"/><br>
-Python<br><br>
-<img src="https://skillicons.dev/icons?i=r" width="40"/><br>
-R<br><br>
-<img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>
-C++<br><br>
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>
-SQL<br><br>
-
-
+<img src="https://skillicons.dev/icons?i=python" width="40"/>
+<img src="https://skillicons.dev/icons?i=r" width="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/>...
 
 </td>
 
+<td align="">
 
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=git" width="40"/><br>
-Git<br><br>
-<img src="https://skillicons.dev/icons?i=github" width="40"/><br>
-GitHub<br><br>
-<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>
-VS Code<br><br>
-<img src="https://skillicons.dev/icons?i=pycharm" width="40"/><br>
-Pycharm
+<img src="https://skillicons.dev/icons?i=git" width="40"/>
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+<img src="https://skillicons.dev/icons?i=pycharm" width="40"/>...
 
 </td>
 </tr>
@@ -75,7 +66,7 @@ Pycharm
 ---
 
  ## Contact
-<p align="center">
+<p align="right">
 <a href="mailto:eromoobo@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
