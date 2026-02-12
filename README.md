@@ -1,7 +1,7 @@
-<h1 align="right">David Oboite</h1>
-<p align="right"><em>Data Science & Artificial Intelligence</em></p>
+<h1 align="center">David Oboite</h1>
+<p align="center"><em>Data Science & Artificial Intelligence</em></p>
 
-<p align="right">
+<p align="center">
   Philosophy → Systems  
   Psychology → Structured Thinking  
   Programming → Execution
@@ -22,19 +22,19 @@ Expressing creativity through code.
 - Music and Art
 - Rock Climbing and Extreme Sport
 
-  > _still learning, always improving_ 
+> _still learning, always improving_ 
 ---
 
  ## Technical Profile
 
-<table align="">
+<table align="center">
 <tr>
 <th>Languages</th>
 <th>Tools</th>
 </tr>
 
 <tr>
-<td align="">
+<td align="center">
 
 <img src="https://skillicons.dev/icons?i=python" width="40"/>
 <img src="https://skillicons.dev/icons?i=r" width="40"/>
@@ -43,7 +43,7 @@ Expressing creativity through code.
 
 </td>
 
-<td align="">
+<td align="center">
 
 <img src="https://skillicons.dev/icons?i=git" width="40"/>
 <img src="https://skillicons.dev/icons?i=github" width="40"/>
@@ -66,7 +66,7 @@ Expressing creativity through code.
 ---
 
  ## Contact
-<p align="right">
+<p align="center">
 <a href="mailto:eromoobo@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -80,4 +80,4 @@ Expressing creativity through code.
 
 ---
 
-> <p align=""><em><strong>Define your Individualism, a shared human perspective but not a shared perception.</strong></em></p>
+> <p align="center"><em><strong>Define your Individualism, a shared human perspective but not a shared perception.</strong></em></p>
