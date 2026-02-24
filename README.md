@@ -11,16 +11,16 @@
 
  ## About🔮
 
-Currently, a Data Science & Artificial Intelligence Student at **Leeds Beckett University**.
+Data Science & Artificial Intelligence Student at **Leeds Beckett University**.
 > Finding clarity in philosophy.  
 Sharpening reasoning through psychology.  
 Expressing creativity through code.
 
-### Interests :
-- Computation and Data Optimization  
-- Foreign Languages and Culture 
-- Music and Art
-- Rock Climbing and Extreme Sport
+### Core Interests
+- Computation & Data Optimization  
+- Foreign Languages & Culture 
+- Music & Art
+- Rock Climbing & Extreme Sport
 
 > _still learning, always improving_ 
 ---
@@ -56,10 +56,11 @@ Expressing creativity through code.
 
 ---
 
- ## Concepts
+ ## Foundation
 
 - Computational Thinking 
-- Data Structures & Algorithms 
+- Data Structures & Algorithms
+- Statistical Modelling
 - Machine Learning Foundations  
 - Intelligent Systems Design  
 
